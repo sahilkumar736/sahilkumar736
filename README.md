@@ -40,10 +40,9 @@ I build system-oriented software and apply Machine Learning/NLP techniques to re
 
 ## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilkumar736&show_icons=true&theme=tokyonight)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilkumar736&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar736&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar736&layout=compact&theme=github_dark)
 ---
 
 ## 🌐 Let's Connect
